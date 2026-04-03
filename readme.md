@@ -25,7 +25,7 @@ This demo showcases the user journey from camera-based gait analysis to the Azur
 | **Framework Concept** <br> ![Slide 1](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/Machine%20Learning%20Concept%20Framework.png) |
 | **Slide 1** <br> ![Slide 1](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/1.png) |
 | **Slide 2** <br> ![Slide 2](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/2.png) |
-| **Slide 3e** <br> ![Slide 3](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/3.png) |
+| **Slide 3** <br> ![Slide 3](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/3.png) |
 | **Sources** <br> ![Slide 4](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/Sources.jpg) |
 
 ---
