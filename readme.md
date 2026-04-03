@@ -9,25 +9,24 @@
 
 ---
 
-##  Prototype Demo
+##  Watch the  Demo Now 👇
 [![Sarcopenia Concept Demo](https://img.shields.io/badge/YouTube-Watch_High_Fidelity_Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/rPsCZG-qhQA)
 
-*This demo showcases the user journey from camera-based gait analysis to the Azure-powered AI health assistant.*
+This demo showcases the user journey from camera-based gait analysis to the Azure-powered AI health assistant.
 
 *This video is also available to view in this repository*
-
+(https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/Prototype%20Demo%20Myoverse.mp4)
 
 
 ---
 
 |  Slides |
 | :--- |
-| **Slide 1: The Clinical Problem** <br> ![Slide 1](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/Machine%20Learning%20Concept%20Framework.png) |
-| **Slide 1: The Clinical Problem** <br> ![Slide 1](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/1.png) |
-| **Slide 2: Early Symptom Detection** <br> ![Slide 2](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/2.png) |
-| **Slide 3: Proposed Solution Architecture** <br> ![Slide 3](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/3.png) |
-| **Slide 4: Implementation & Specialist Access** <br> ![Slide 4](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/4.png) |
-| **Slide 4: Implementation & Specialist Access** <br> ![Slide 4](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/Sources.jpg) |
+| **Framework Concept** <br> ![Slide 1](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/Machine%20Learning%20Concept%20Framework.png) |
+| **Slide 1** <br> ![Slide 1](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/1.png) |
+| **Slide 2** <br> ![Slide 2](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/2.png) |
+| **Slide 3e** <br> ![Slide 3](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/3.png) |
+| **Sources** <br> ![Slide 4](https://github.com/samanta-thsvsadia/MyoVerse/blob/main/Media/Sources.jpg) |
 
 ---
 
